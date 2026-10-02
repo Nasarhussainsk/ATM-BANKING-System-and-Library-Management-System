@@ -1,5 +1,8 @@
 # ATM-BANKING-System-and-Library-Management-System
-Python OOP concepts with real-world examples.
+A Python project demonstrating OOP concepts through an ATM Banking System and Library Management System.
+Implements classes, objects, inheritance, abstraction, encapsulation, and polymorphism.
+Provides practical examples of applying OOP principles to real-world applications.
+
 
 # Python OOP Concepts
 
